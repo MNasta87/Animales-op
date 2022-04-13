@@ -1,0 +1,11 @@
+
+body {
+
+    background: linear-gradient(to right,#ffffff, #8cb8eb);
+}
+
+.btn-outline-light{
+
+    background-color: #2368ff;
+  border-color: rgba(8, 8, 8, 0.2);
+}
